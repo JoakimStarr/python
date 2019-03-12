@@ -1,1 +1,1 @@
-create_book
+create exercise_book
