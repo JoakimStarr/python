@@ -1,13 +1,11 @@
 #!/usr/bin/env python
-# encoding: utf-8
+# coding=UTF-8
 '''
-@author: Miskies
-@license: (C) Copyright 2013-2017, Node Supply Chain Manager Corporation Limited.
-@contact: miskies@gmail.com
-@software: pycharm
-@file: errorProcess.py
-@time: 19-3-19 上午10:29
-@desc:
+@Description: 
+@Author: Miskies
+@LastEditors: huacong
+@Date: 2019-03-19 11:01:46
+@LastEditTime: 2019-03-19 19:26:13
 '''
 #错误处理
 # import logging
